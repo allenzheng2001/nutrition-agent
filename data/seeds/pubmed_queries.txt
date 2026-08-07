@@ -1,0 +1,20 @@
+# PubMed search queries -- seed list for corpus ingestion.
+# Format: one free-text query per line, "#" starts a comment.
+# Each query pulls its top N results (see scripts/ingest_pubmed.py --retmax).
+#
+# Chosen to cover both supportive and contradicting literature around
+# Saladino's animal-based/carnivore claims -- useful for grounding the
+# agent AND for the refutation-evaluation use case in the README.
+
+red meat cardiovascular disease risk
+saturated fat cardiovascular disease meta-analysis
+seed oils linoleic acid inflammation
+omega-6 omega-3 ratio chronic disease
+red meat processed meat cancer risk
+plant toxins oxalates lectins phytates digestion
+carnivore diet health outcomes
+elimination diet autoimmune disease
+TMAO red meat cardiovascular risk
+dietary cholesterol serum cholesterol
+gut microbiome dietary fiber short chain fatty acids
+ketogenic diet metabolic health

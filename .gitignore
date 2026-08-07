@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Generated corpus data is fetched by scripts/ingest_youtube.py, not committed
+data/corpus/

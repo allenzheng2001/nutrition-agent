@@ -1,0 +1,20 @@
+# Paul Saladino MD -- seed video list for corpus ingestion
+# Format: one YouTube video ID per line, "#" starts a comment.
+# Curated for long-form / substantive content over his recent
+# short-form haul & reaction videos, which are lower signal for
+# building a knowledge corpus.
+
+# --- Own channel: educational / deep-dive ---
+E1cqyCQoTR8  # Everything you need to know about the animal-based diet
+n6nVKf5ZZnk  # Animal-Based Diet 101: A step-by-step guide
+
+# --- Own channel: debates / conversations with other clinicians ---
+l3IDDZnR3d4  # Animal-based vs. Carnivore, debate with Anthony Chaffee, MD
+9ZM9sCfmAGc  # Animal-based vs. Ray Peat diet, conversation with Georgi Dinkov
+ycWsJUzggq4  # Keto vs Animal-Based, debate with Ken Berry, MD
+
+# --- Podcast appearances on other channels ---
+s8tJ-R28HX8  # Joe Rogan Experience #1551
+I2cWlIfe0-8  # Shawn Ryan Show SRS #179
+CamFyBFTbmg  # Ultimate Human Podcast TUH #044
+WvED5frOfvg  # Bo Nickal Interview N&D 44

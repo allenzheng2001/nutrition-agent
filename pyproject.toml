@@ -1,0 +1,23 @@
+[project]
+name = "nutrition-agent"
+version = "0.1.0"
+description = "Ingesting and structuring a nutrition influencer's public knowledge for an agent persona"
+requires-python = ">=3.10"
+dependencies = [
+    "youtube-transcript-api>=1.2,<2",
+    "yt-dlp>=2024.1",
+    "rank-bm25>=0.2",
+    "anthropic>=0.120",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
